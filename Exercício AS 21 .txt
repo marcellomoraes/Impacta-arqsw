@@ -1,0 +1,23 @@
+->Tempo de resposta
+
+O comando ping ou TRACERT
+
+ping www.uol.com.br
+
+https://ciberconecta.com.br/velocidade-do-servidor-web/
+
+->Responsividade
+
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://www.nngroup.com/articles/response-times-3-important-limits/&prev=search
+
+->Latência
+https://pt.wikihow.com/Testar-a-Lat%C3%AAncia-(Lag)-da-Rede-ou-da-Internet-Usando-o-Windows
+
+->Throughput
+https://www.gifara.com.br/compreendendo-o-throughput/
+
+->Carga: stress aplicado a um sistema
+https://qualidadebr.wordpress.com/2010/08/29/teste-de-desempenhocargastress/
+
+->Sensibilidade à carga / degradação
+http://www.ipt.br/pos_graduacao_ipt/solucoes/dissertacoes/235-roteiro_de_avaliacao_da_degradacao_do_software_baseado_na_analise_de_requisitos_nao_funcionais.htm
