@@ -1,0 +1,31 @@
+
+   CADASTRO DE UMA NOVA IDÉIA
+
+   Identificador do participante: __________
+   Descrição da idéia (até 500 caracteres): ________________________
+   Categorias:
+     _ Sustentabilidade
+     _ Economia
+     _ Tecnologia
+     _ Saúde
+
+  | ENVIAR |
+
+
+-------------------------
+
+  Sua idéia foi cadastrada! obrigado pela sua participação!
+
+-------------------------
+
+  Faltou preencher o(s) campo(s)
+
+-------------------------
+
+  Código do participante inválido
+
+-------------------------
+
+  O sistema está indiponivel no momento, tente mais tarde
+
+-------------------------
